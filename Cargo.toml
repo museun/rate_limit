@@ -1,6 +1,6 @@
 [package]
 name = "rate_limit"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["museun <museun@outlook.com>"]
 repository = "https://github.com/museun/rate_limit"
 readme = "README.md"
