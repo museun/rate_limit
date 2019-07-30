@@ -1,0 +1,17 @@
+[package]
+name = "rate_limit"
+version = "0.1.0"
+authors = ["museun <museun@outlook.com>"]
+repository = "https://github.com/museun/rate_limit"
+readme = "README.md"
+edition = "2018"
+description = "A simple token-bucket style rate limiter"
+keywords = [ "token", "bucket", "rate", "limit" ]
+license = "0BSD"
+
+[dependencies]
+
+
+
+
+
